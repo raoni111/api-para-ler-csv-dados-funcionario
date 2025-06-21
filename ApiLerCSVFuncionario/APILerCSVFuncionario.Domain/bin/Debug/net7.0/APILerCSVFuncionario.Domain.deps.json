@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "APILerCSVFuncionario.Domain/1.0.0": {
+        "dependencies": {
+          "ApiLerCSVFuncionario.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "APILerCSVFuncionario.Domain.dll": {}
+        }
+      },
+      "ApiLerCSVFuncionario.Infrastructure/1.0.0": {
+        "runtime": {
+          "ApiLerCSVFuncionario.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APILerCSVFuncionario.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiLerCSVFuncionario.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

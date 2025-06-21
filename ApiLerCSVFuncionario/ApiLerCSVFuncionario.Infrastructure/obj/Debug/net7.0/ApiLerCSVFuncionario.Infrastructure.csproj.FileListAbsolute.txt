@@ -1,0 +1,12 @@
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.deps.json
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.AssemblyInfo.cs
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\refint\ApiLerCSVFuncionario.Infrastructure.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ref\ApiLerCSVFuncionario.Infrastructure.dll
