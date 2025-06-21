@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLerCSVFuncionario", "ApiLerCSVFuncionario\ApiLerCSVFuncionario.csproj", "{8C93848C-CD58-40B5-9EE6-B9E99EB5D96C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLerCSVFuncionario.API", "ApiLerCSVFuncionario\ApiLerCSVFuncionario.API.csproj", "{8C93848C-CD58-40B5-9EE6-B9E99EB5D96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLerCSVFuncionario.Aplications", "ApiLerCSVFuncionario.Aplications\ApiLerCSVFuncionario.Aplications.csproj", "{5E05BA12-6ECD-4EAB-A8A9-6334B1B3EFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILerCSVFuncionario.Domain", "APILerCSVFuncionario.Domain\APILerCSVFuncionario.Domain.csproj", "{B49279D0-1EA5-4C76-A9D6-A3DDE094DD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLerCSVFuncionario.Infrastructure", "ApiLerCSVFuncionario.Infrastructure\ApiLerCSVFuncionario.Infrastructure.csproj", "{2BA908D2-38EF-42AF-9FB8-18ACA5BFBCB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{8C93848C-CD58-40B5-9EE6-B9E99EB5D96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C93848C-CD58-40B5-9EE6-B9E99EB5D96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C93848C-CD58-40B5-9EE6-B9E99EB5D96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E05BA12-6ECD-4EAB-A8A9-6334B1B3EFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E05BA12-6ECD-4EAB-A8A9-6334B1B3EFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E05BA12-6ECD-4EAB-A8A9-6334B1B3EFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E05BA12-6ECD-4EAB-A8A9-6334B1B3EFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49279D0-1EA5-4C76-A9D6-A3DDE094DD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49279D0-1EA5-4C76-A9D6-A3DDE094DD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49279D0-1EA5-4C76-A9D6-A3DDE094DD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49279D0-1EA5-4C76-A9D6-A3DDE094DD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA908D2-38EF-42AF-9FB8-18ACA5BFBCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA908D2-38EF-42AF-9FB8-18ACA5BFBCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA908D2-38EF-42AF-9FB8-18ACA5BFBCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA908D2-38EF-42AF-9FB8-18ACA5BFBCB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
