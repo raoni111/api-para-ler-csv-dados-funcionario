@@ -4,9 +4,9 @@ namespace ApiLerCSVFuncionario.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class LerCSVFuncionatioController : ControllerBase
+    public class LerCSVFuncionarioController : ControllerBase
     {
-        private readonly ILogger<LerCSVFuncionatioController> _logger;
+        private readonly ILogger<LerCSVFuncionarioController> _logger;
 
         [HttpGet("/on")]
         public Object AplicationOn()
