@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zz+7GaXAkkSquhTR6r5EYUSOxbl99mMPiV/1+1+IYK6zM0Ft4xTfkutKAptuHSVRNPG5Z3mwrbg1klTYUjWEXQ==",
+  "dgSpecHash": "0TYTYfvQX6kaKluY/PCAU2ydK/2dZ6uWLDDcEwNBnj3e4Jt83Kr+9ZfEJv8KwsLS0W/RkfGIcWJxXQ/75OJoaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

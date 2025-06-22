@@ -1,0 +1,100 @@
+﻿# Arquivo .gitignore para projetos C# / .NET
+# Este template é baseado nos padrões recomendados pelo Visual Studio e pela comunidade .NET
+
+## Sistema Operacional e Ferramentas
+# Arquivos específicos de sistema operacional
+*.swp
+*.swo
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Arquivos de log e bancos de dados temporários
+*.log
+*.temp
+*.tmp
+*.sqlite
+*.sqlite3
+
+## IDEs e Editores
+
+# Visual Studio / Rider
+# Ignora arquivos de configuração pessoal e temporários
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vspscc
+*.vssscc
+vssver.scc
+# Diretórios gerados pelo Visual Studio e Rider
+.vs/
+.idea/
+
+# Visual Studio Code
+# Ignora o diretório de configurações do workspace
+.vscode/
+# Exceções: Mantenha arquivos que devem ser compartilhados com a equipe
+!/.vscode/settings.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+*.code-workspace
+
+## Arquivos e Diretórios de Compilação do .NET
+
+# Diretórios principais de output da compilação
+bin/
+obj/
+
+# Arquivos gerados na raiz do projeto durante a publicação (Publish)
+/Publish/
+/publish/
+/PublishProfiles/
+
+# Pacotes NuGet
+# O diretório 'packages' é para o antigo formato packages.config
+packages/
+# Evita adicionar pacotes baixados diretamente ao repositório
+*.nupkg
+# Cache de pacotes NuGet
+.nuget/
+
+# Arquivos de teste
+*.TestResult.xml
+TestResults/
+*.VisualState.xml
+
+# Arquivos de configuração gerados em tempo de execução
+App_Data/
+*.config.release
+*.config.debug
+
+# Outros arquivos gerados
+*.Generated.cs
+*_i.c
+*_p.c
+*.orig
+
+# Cache do Resharper (JetBrains)
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Ferramentas de Linha de Comando do .NET
+# Arquivos de configuração de ferramentas locais
+.config/dotnet-tools.json
+
+# Cache do Razor
+/obj/Debug/**/Protos/
+/obj/Debug/**/*.RazorTargetAssemblyInfo.cs
+
+## Arquivos de Publicação
+# Não inclua perfis de publicação que contenham senhas
+*.pubxml
+*.publish.xml
+
+# Se estiver usando Entity Framework Migrations, você pode querer
+# versionar o diretório de Migrations, então ele não está incluído aqui.

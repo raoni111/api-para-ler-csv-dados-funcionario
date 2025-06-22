@@ -10,3 +10,8 @@ C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funci
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\refint\ApiLerCSVFuncionario.Infrastructure.dll
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.pdb
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ref\ApiLerCSVFuncionario.Infrastructure.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Domain.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Domain.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\obj\Debug\net7.0\ApiLerCSVFuncionario.Infrastructure.csproj.CopyComplete
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Aplications.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Infrastructure\bin\Debug\net7.0\ApiLerCSVFuncionario.Aplications.pdb

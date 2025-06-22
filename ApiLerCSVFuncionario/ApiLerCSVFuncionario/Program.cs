@@ -1,3 +1,8 @@
+using APILerCSVFuncionario.Domain.Interfaces.Services;
+using APILerCSVFuncionario.Domain.Interfaces.Repository;
+using ApiLerCSVFuncionario.Infrastructure.Files.Readers;
+using ApiLerCSVFuncionario.Aplications.Services;
+
 
 namespace ApiLerCSVFuncionario
 {
@@ -11,6 +16,10 @@ namespace ApiLerCSVFuncionario
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+            builder.Services.AddScoped<ILerArquivoCSVFuncionariosServices, LerAquivoCSVFuncionariosServices>();
+            builder.Services.AddScoped<ICSVFuncionariosReader, CSVFuncionariosReader>();
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 

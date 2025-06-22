@@ -37,3 +37,4 @@ C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funci
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario\obj\Debug\net7.0\ApiLerCSVFuncionario.API.pdb
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario\obj\Debug\net7.0\ApiLerCSVFuncionario.API.genruntimeconfig.cache
 C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario\obj\Debug\net7.0\ref\ApiLerCSVFuncionario.API.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario\bin\Debug\net7.0\CsvHelper.dll

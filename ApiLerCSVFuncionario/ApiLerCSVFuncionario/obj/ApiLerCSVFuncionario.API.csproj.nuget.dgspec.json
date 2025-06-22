@@ -28,11 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj": {
-                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj"
-              },
-              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj"
+              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj": {
+                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj"
               }
             }
           }
@@ -46,6 +43,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj": {
+    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
-        "projectName": "APILerCSVFuncionario.Domain",
-        "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
+        "projectName": "ApiLerCSVFuncionario.Domain",
+        "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
         "packagesPath": "C:\\Users\\Raoni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -89,11 +92,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -148,7 +147,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Aplications\\ApiLerCSVFuncionario.Aplications.csproj": {
+                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Aplications\\ApiLerCSVFuncionario.Aplications.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -160,6 +163,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -206,6 +215,9 @@
             "projectReferences": {
               "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Aplications\\ApiLerCSVFuncionario.Aplications.csproj": {
                 "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Aplications\\ApiLerCSVFuncionario.Aplications.csproj"
+              },
+              "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj"
               }
             }
           }
@@ -220,6 +232,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"

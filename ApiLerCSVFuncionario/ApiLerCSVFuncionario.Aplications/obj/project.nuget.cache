@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+4F7lORvhEN4ZbHFCteDd/gaGnpahcczbJpIvpohQAN/vnst1+hN/64CzEE2H5c6YvnuuMa8cbPZU/OlR+jdYQ==",
+  "dgSpecHash": "uoI823nHMuWbhYM2Pg34EDJ+MyjMHqlxtanq5OKEp7hqNNXNlw4Cs2QjgNdb3ssopKt5qRVJ5HJoBFwOf77Z6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Aplications\\ApiLerCSVFuncionario.Aplications.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raoni\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\Raoni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

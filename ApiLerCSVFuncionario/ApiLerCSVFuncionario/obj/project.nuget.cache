@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5vZ1Fj1G/gzXnqylY9f46p4sSTifN9Z7GhNrR9yWuXk+iXKcCK8Q2RmnSZ6Z/dgPko8hD0q6+bnNAIk7gVdeHw==",
+  "dgSpecHash": "QSw6i2UPg2xBQY26iQBmhY3ahycrKknkDD/ZchEuC94odwIz7+kEAuZZf0tOu39gu4Cq6xFw1OAP+4y5dqPWtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Raoni\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
     "C:\\Users\\Raoni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Raoni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Raoni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Raoni\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Raoni\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

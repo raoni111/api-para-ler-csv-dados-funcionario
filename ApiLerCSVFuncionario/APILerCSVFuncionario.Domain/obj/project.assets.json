@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "ApiLerCSVFuncionario.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ApiLerCSVFuncionario.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ApiLerCSVFuncionario.Infrastructure.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "ApiLerCSVFuncionario.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../ApiLerCSVFuncionario.Infrastructure/ApiLerCSVFuncionario.Infrastructure.csproj",
-      "msbuildProject": "../ApiLerCSVFuncionario.Infrastructure/ApiLerCSVFuncionario.Infrastructure.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "ApiLerCSVFuncionario.Infrastructure >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Raoni\\.nuget\\packages\\": {}
@@ -32,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
-      "projectName": "APILerCSVFuncionario.Domain",
-      "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
+      "projectName": "ApiLerCSVFuncionario.Domain",
+      "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
       "packagesPath": "C:\\Users\\Raoni\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\obj\\",
       "projectStyle": "PackageReference",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\ApiLerCSVFuncionario.Infrastructure\\ApiLerCSVFuncionario.Infrastructure.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

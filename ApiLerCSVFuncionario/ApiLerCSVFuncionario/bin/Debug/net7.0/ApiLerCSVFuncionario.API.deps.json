@@ -9,11 +9,24 @@
       "ApiLerCSVFuncionario.API/1.0.0": {
         "dependencies": {
           "ApiLerCSVFuncionario.Aplications": "1.0.0",
+          "ApiLerCSVFuncionario.Infrastructure": "1.0.0",
+          "CsvHelper": "33.1.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
           "ApiLerCSVFuncionario.API.dll": {}
+        }
+      },
+      "CsvHelper/33.1.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "33.0.0.0",
+            "fileVersion": "33.1.0.26"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/7.0.11": {
@@ -27,6 +40,7 @@
           }
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
       "Microsoft.OpenApi/1.4.3": {
         "runtime": {
@@ -76,22 +90,23 @@
       },
       "ApiLerCSVFuncionario.Aplications/1.0.0": {
         "dependencies": {
-          "APILerCSVFuncionario.Domain": "1.0.0",
-          "ApiLerCSVFuncionario.Infrastructure": "1.0.0"
+          "ApiLerCSVFuncionario.Domain": "1.0.0",
+          "CsvHelper": "33.1.0"
         },
         "runtime": {
           "ApiLerCSVFuncionario.Aplications.dll": {}
         }
       },
-      "APILerCSVFuncionario.Domain/1.0.0": {
-        "dependencies": {
-          "ApiLerCSVFuncionario.Infrastructure": "1.0.0"
-        },
+      "ApiLerCSVFuncionario.Domain/1.0.0": {
         "runtime": {
-          "APILerCSVFuncionario.Domain.dll": {}
+          "ApiLerCSVFuncionario.Domain.dll": {}
         }
       },
       "ApiLerCSVFuncionario.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ApiLerCSVFuncionario.Aplications": "1.0.0",
+          "CsvHelper": "33.1.0"
+        },
         "runtime": {
           "ApiLerCSVFuncionario.Infrastructure.dll": {}
         }
@@ -104,12 +119,26 @@
       "serviceable": false,
       "sha512": ""
     },
+    "CsvHelper/33.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kqfTOZGrn7NarNeXgjh86JcpTHUoeQDMB8t9NVa/ZtlSYiV1rxfRnQ49WaJsob4AiGrbK0XDzpyKkBwai4F8eg==",
+      "path": "csvhelper/33.1.0",
+      "hashPath": "csvhelper.33.1.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.OpenApi/7.0.11": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-+3PUTx950QiUzw9CriQfCpfv11cJ0uMzQrDS3BwkEDlRduAh/2+1mxDy2S8wS1j3zyQpjbtQU0fFeWTU8j0Ljg==",
       "path": "microsoft.aspnetcore.openapi/7.0.11",
       "hashPath": "microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
@@ -158,7 +187,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "APILerCSVFuncionario.Domain/1.0.0": {
+    "ApiLerCSVFuncionario.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
