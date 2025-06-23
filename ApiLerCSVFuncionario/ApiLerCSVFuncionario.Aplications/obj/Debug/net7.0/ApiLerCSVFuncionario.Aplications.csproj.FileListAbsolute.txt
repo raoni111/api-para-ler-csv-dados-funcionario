@@ -1,0 +1,15 @@
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\bin\Debug\net7.0\ApiLerCSVFuncionario.Aplications.deps.json
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\bin\Debug\net7.0\ApiLerCSVFuncionario.Aplications.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\bin\Debug\net7.0\ApiLerCSVFuncionario.Aplications.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\bin\Debug\net7.0\APILerCSVFuncionario.Domain.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\bin\Debug\net7.0\APILerCSVFuncionario.Domain.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.csproj.AssemblyReference.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.AssemblyInfoInputs.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.AssemblyInfo.cs
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.csproj.CoreCompileInputs.cache
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.csproj.CopyComplete
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\refint\ApiLerCSVFuncionario.Aplications.dll
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ApiLerCSVFuncionario.Aplications.pdb
+C:\Users\Raoni\Documents\Programação\projetos\web\api-para-ler-csv-dados-funcionario\ApiLerCSVFuncionario\ApiLerCSVFuncionario.Aplications\obj\Debug\net7.0\ref\ApiLerCSVFuncionario.Aplications.dll

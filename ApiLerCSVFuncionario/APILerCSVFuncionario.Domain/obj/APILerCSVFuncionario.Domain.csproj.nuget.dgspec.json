@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj": {}
+    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj": {
+    "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
-        "projectName": "APILerCSVFuncionario.Domain",
-        "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\APILerCSVFuncionario.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
+        "projectName": "ApiLerCSVFuncionario.Domain",
+        "projectPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
         "packagesPath": "C:\\Users\\Raoni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\obj\\",
         "projectStyle": "PackageReference",
