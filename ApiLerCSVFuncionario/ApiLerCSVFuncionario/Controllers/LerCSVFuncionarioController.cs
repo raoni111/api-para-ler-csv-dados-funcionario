@@ -20,14 +20,14 @@ namespace ApiLerCSVFuncionario.API.Controllers
 
 
         [HttpPost("/salvarFuncionarioCSV")]
-        public IActionResult SalvarFuncionario(IFormFile fileCSV)
+        public async Task<IActionResult> SalvarFuncionario(IFormFile fileCSV)
 
         {
             try
             {
                 Stream fileStream = fileCSV.OpenReadStream();
 
-                var result = _larquivoArquivoCSVFuncionariosServuces.LerArquivoCSV(fileStream);
+                var result = await _larquivoArquivoCSVFuncionariosServuces.LerArquivoCSV(fileStream);
 
                 return Ok(result);
 
@@ -37,7 +37,7 @@ namespace ApiLerCSVFuncionario.API.Controllers
                 return BadRequest(new
                 {
                     Success = false,
-                    Message = "Erro ao ler documento csv do funcionarios"
+                    Message = "Erro ao ler documento csv do funcionarios",
                 });
             }
         }

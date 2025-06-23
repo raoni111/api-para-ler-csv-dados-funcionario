@@ -10,6 +10,6 @@ namespace APILerCSVFuncionario.Domain.Interfaces.Services
 {
     public interface ILerArquivoCSVFuncionariosServices
     {
-        public DefaultResponse<List<FuncionariosEntity>> LerArquivoCSV(Stream fileStream);
+        public Task<DefaultResponse<List<FuncionariosEntity>>> LerArquivoCSV(Stream fileStream);
     }
 }
