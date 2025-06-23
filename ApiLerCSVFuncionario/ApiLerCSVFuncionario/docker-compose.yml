@@ -1,0 +1,19 @@
+﻿version: '3.8'
+
+services:
+  mysql_db:
+    image: mysql:8.0
+    container_name: my_mysql_container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: raoni1234
+      MYSQL_DATABASE: empresa_fic
+      MYSQL_USER: raoni_root
+      MYSQL_PASSWORD: raoni123
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:

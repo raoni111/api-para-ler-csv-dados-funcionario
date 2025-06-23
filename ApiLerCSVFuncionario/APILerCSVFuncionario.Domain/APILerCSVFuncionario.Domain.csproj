@@ -7,16 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ApiLerCSVFuncionario.Infrastructure\ApiLerCSVFuncionario.Infrastructure.csproj" />
+    <Compile Remove="DTOs\Response\OnlineResponse.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="DTOs\Request\" />
-    <Folder Include="DTOs\Response\" />
-    <Folder Include="Entity\" />
     <Folder Include="Enum\" />
-    <Folder Include="Interfaces\Services\" />
-    <Folder Include="Interfaces\Repository\" />
   </ItemGroup>
 
 </Project>
