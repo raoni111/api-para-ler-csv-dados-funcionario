@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiLerCSVFuncionario.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea50a784402dab6abbd244d4a9c33932141073b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiLerCSVFuncionario.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiLerCSVFuncionario.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

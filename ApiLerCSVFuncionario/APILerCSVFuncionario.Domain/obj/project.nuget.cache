@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0TYTYfvQX6kaKluY/PCAU2ydK/2dZ6uWLDDcEwNBnj3e4Jt83Kr+9ZfEJv8KwsLS0W/RkfGIcWJxXQ/75OJoaw==",
+  "dgSpecHash": "vSqdxU6jXY4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raoni\\Documents\\Programação\\projetos\\web\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programação\\Back\\api-para-ler-csv-dados-funcionario\\ApiLerCSVFuncionario\\APILerCSVFuncionario.Domain\\ApiLerCSVFuncionario.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raoni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\raoni\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\raoni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
